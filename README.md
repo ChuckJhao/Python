@@ -44,10 +44,6 @@
 
 * Time, Command Line Arguments.
 
-## License
-
-MIT
-
 ---
 
 > GitHub [@ChuckJhao](https://github.com/ChuckJhao)
